@@ -5,6 +5,10 @@ import java.util.Map;
 
 /**
  * @description 两数之和解法
+ * @BelongsProject: leetcode
+ * @BelongsPackage: com.helfmxie.leetcode
+ * @Author: zhihaoxie
+ * @CreateTime: 2019-01-16 15:25
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
